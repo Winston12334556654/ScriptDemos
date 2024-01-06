@@ -9,8 +9,10 @@ if [ $? -ne 0 ];
 then 
 	echo "Heee Heee"
 exit 1
-fi 
-toilet -f bigmono9 -F gay Hello,Team Okka Hacked your system!
+fi
 
-sleep 5
+toilet "Team OKKA hacked your system!" 
+#toilet -f bigmono9 -F gay Hello,Team Okka Hacked your system!
+
+sleep 7
 cmatrix 
