@@ -1,5 +1,12 @@
 #!/bin/bash
 
-chmod +x demo.sh
+brew install toilet 
+if [ $? -ne 0 ];
+then 
+	echo "Heee Heee"
+exit 1
+fi 
+toilet "Winston"
 
-echo "Hello World, Winston is going to fuck you!"
+
+
