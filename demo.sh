@@ -6,7 +6,7 @@ then
 	echo "Heee Heee"
 exit 1
 fi 
-toilet "Winston"
+toilet "Winston Hacked Your System!"
 
 
 
