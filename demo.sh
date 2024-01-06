@@ -11,8 +11,8 @@ then
 exit 1
 fi
 
-toilet "Team OKKA hacked your system!" 
-#toilet -f bigmono9 -F gay Hello,Team Okka Hacked your system!
+#toilet "Team OKKA hacked your system!" 
+toilet -f bigmono9 -F gay Team Okka Hacked your system!
 
 sleep 7
 cmatrix 
