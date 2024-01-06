@@ -10,9 +10,7 @@ then
 	echo "Heee Heee"
 exit 1
 fi 
-toilet "Winston Hacked Your System!"
-toilet "No System is Safe!"
-toilet -f bigmono9 -F gay Hello, Linux!
+toilet -f bigmono9 -F gay Hello,Team Okka Hacked your system!
 
-sleep 9
+sleep 5
 cmatrix 
